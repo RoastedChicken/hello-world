@@ -1,2 +1,3 @@
 # hello-world
-it's something to start
+Hahaha, want to try something seam easy from the start.
+just do it!
